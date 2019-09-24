@@ -51,5 +51,5 @@ var app = {
 };
 
 function vibrate(){
-    navigator.vibrate(5000);
+    navigator.vibrate(2000);
 }
